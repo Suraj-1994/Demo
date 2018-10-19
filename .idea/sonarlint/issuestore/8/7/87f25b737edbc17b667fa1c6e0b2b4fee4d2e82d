@@ -1,0 +1,3 @@
+
+gsquid:UselessImportCheck"9Remove this unused import 'org.hibernate.SessionFactory'.(ρ¦«¬ώÿÿÿÿ8‰ωθ,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(”¤ήγόÿÿÿÿ

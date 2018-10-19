@@ -1,0 +1,7 @@
+
+€squid:UselessImportCheck"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ğÿûÿÿÿÿ8›÷îè,
+Œ"squid:ClassVariableVisibilityCheck"TMake updateId a static final constant or non-public and provide accessors if needed.(ÀÔÂûÿÿÿÿ8ê˜ßãç,
+Osquid:S1444".Make this "public static updateId" field final(ÀÔÂûÿÿÿÿ8ê˜ßãç,
+nsquid:S1192"MDefine a constant instead of duplicating this literal "employeeList" 6 times.(¤ÉÔ‹üÿÿÿÿ8¿Ùåç,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ûßéÀùÿÿÿÿ8ÄËÏ‘è,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿëÕú8ñıĞè,
